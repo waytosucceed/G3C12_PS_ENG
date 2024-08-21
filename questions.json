@@ -1,0 +1,238 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "Verbs",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which sentence contains an action verb?",
+          "options": [
+            "She seems happy.",
+            "He remains calm.",
+            "They run every morning.",
+            "None of the above"
+          ],
+          "answer": 2,
+          "explanation": "\"Run\" is an action verb describing what \"they\" do."
+        },
+        {
+          "questionNo": 2,
+          "question": "Identify the action verb in the sentence: \"She sings beautifully.\"",
+          "options": [
+            "She",
+            "sings",
+            "beautifully",
+            "all of the above"
+          ],
+          "answer": 1,
+          "explanation": "\"Sings\" is the action verb describing what \"she\" does."
+        },
+        {
+          "questionNo": 3,
+          "question": "In the sentence \"The baby appears happy,\" the verb \"appears\" is the verb.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "\"Appears\" is the verb describing the state of appearing happy."
+        },
+        {
+          "questionNo": 4,
+          "question": "In the sentence \"He talks loudly,\" the verb \"talks\" is an action verb.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "\"Talks\" is an action verb describing the action \"he\" performs."
+        },
+        {
+          "questionNo": 5,
+          "question": "We _____ a movie last night.",
+          "options": [
+            "watch",
+            "watched",
+            "see",
+            "film"
+          ],
+          "answer": 1,
+          "explanation": "The verb \"watched\" indicates the action performed on the movie."
+        },
+        {
+          "questionNo": 6,
+          "question": "She ____ a letter to her friend every month.",
+          "options": [
+            "writes",
+            "is",
+            "seems",
+            "feels"
+          ],
+          "answer": 0,
+          "explanation": "\"Writes\" is an action verb describing the action she performs every month."
+        },
+        {
+          "questionNo": 7,
+          "question": "Identify the verb in the sentence: \"The flowers bloom in the spring.\"",
+          "options": [
+            "flowers",
+            "bloom",
+            "in",
+            "spring"
+          ],
+          "answer": 1,
+          "explanation": "\"Bloom\" is the main verb describing the action taken by the flowers."
+        },
+        {
+          "questionNo": 8,
+          "question": "The verb \"hard\" in the sentence \"She studies hard every night\" is an action verb.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "The word \"hard\" in that sentence is not a verb. It's an adverb. \"Studies\" is an action verb describing the action \"she\" performs."
+        },
+        {
+          "questionNo": 9,
+          "question": "He ____ the lawn every weekend.",
+          "options": [
+            "mows",
+            "watering",
+            "scratches",
+            "was"
+          ],
+          "answer": 0,
+          "explanation": "\"Mows\" is an action verb describing the action he performs every weekend."
+        },
+        {
+          "questionNo": 10,
+          "question": "In the sentence \"They practise every weekend,\" the verb \"practise\" is an action verb.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "\"Practise\" is an action verb describing the action \"they\" perform."
+        },
+        {
+          "questionNo": 11,
+          "question": "“Speak,” “Ring” and “Beautiful” are verbs.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "Among the given words \"Speak,\" \"Ring,\" and \"Beautiful,\" only the first two are verbs, while \"Beautiful\" is an adjective."
+        },
+        {
+          "questionNo": 12,
+          "question": "Identify the action verb in this sentence: \"The teacher explains the lesson clearly.\"",
+          "options": [
+            "teacher",
+            "explains",
+            "lesson",
+            "clearly"
+          ],
+          "answer": 1,
+          "explanation": "\"Explains\" is the action verb describing what the teacher does."
+        },
+        {
+          "questionNo": 13,
+          "question": "Identify the verb in the sentence: \"The students completed their assignments.\"",
+          "options": [
+            "students",
+            "completed",
+            "their",
+            "assignments"
+          ],
+          "answer": 1,
+          "explanation": "\"Completed\" is the verb describing the action taken by the students."
+        },
+        {
+          "questionNo": 14,
+          "question": "Which sentence uses \"drive\" as an action verb?",
+          "options": [
+            "They drive safely.",
+            "She has a strong drive.",
+            "The project will drive success.",
+            "He is driven by ambition."
+          ],
+          "answer": 0,
+          "explanation": "\"Drive\" is used as an action verb describing the action of operating a vehicle."
+        },
+        {
+          "questionNo": 15,
+          "question": "Identify the verb in the sentence: \"The cat sleeps on the windowsill.\"",
+          "options": [
+            "cat",
+            "sleeps",
+            "on",
+            "windowsill"
+          ],
+          "answer": 1,
+          "explanation": "\"Sleeps\" is the verb describing what the cat does."
+        },
+        {
+          "questionNo": 16,
+          "question": "Identify the action verb in the sentence: \"The chef prepares the meal.\"",
+          "options": [
+            "chef",
+            "prepares",
+            "meal",
+            "none of the above"
+          ],
+          "answer": 1,
+          "explanation": "\"Prepares\" is the action verb describing what the chef does."
+        },
+        {
+          "questionNo": 17,
+          "question": "He _____ his homework diligently.",
+          "options": [
+            "homework",
+            "thought",
+            "completed",
+            "done"
+          ],
+          "answer": 2,
+          "explanation": "This is the action verb for what he did to his homework."
+        },
+        {
+          "questionNo": 18,
+          "question": "The children ____ in the park every afternoon.",
+          "options": [
+            "run",
+            "are",
+            "seems",
+            "feel"
+          ],
+          "answer": 0,
+          "explanation": "\"Run\" is an action verb describing what the children do in the park."
+        },
+        {
+          "questionNo": 19,
+          "question": "In the sentence \"The musician plays the guitar,\" the verb \"musician\" is an action verb.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "“Musician” is not a verb. \"Plays\" is an action verb describing what the musician does. It indicates the action of playing the guitar."
+        },
+        {
+          "questionNo": 20,
+          "question": "Fill in the blank with the appropriate verb: Can you please ______ the attendance register?",
+          "options": [
+            "ask",
+            "pass",
+            "draft",
+            "none of these"
+          ],
+          "answer": 1,
+          "explanation": "The correct sentence is: Can you please pass the attendance register? “Pass” accurately reflects the action you're requesting - transferring the attendance register to someone else."
+        }
+      ]
+    }
+  ]
+}
